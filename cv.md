@@ -14,7 +14,7 @@ C++, Java, HTML, CSS
 
  Bachelor of Mathematics and Computer Science(2019 - Present) Free University of Tbilisi
 
- IT Center Mziuri(2015-2018) 
+ IT Center Mziuri(2015-2018) (C++, Java)
 
 ## English ##
 B2 Certificate 
